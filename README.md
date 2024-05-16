@@ -1,19 +1,18 @@
 ### olá, seja bem-vindo 👋
 
-<!--
-**Daniella404/Daniella404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Meu nome é Daniella  Takaiama
 
-- Estiu estudando na Alura
-- Eu sou animadora/desenhista
--(eu esou sebdo obrigada a fazer, pois a escola quer que eu faça isso)
+- Estiu estudando na [Alura](https://www.alura.com.br)
+- Eu sou animadora e desenhista
+- Eu estou sendo obrigada a fazer, pois a escola quer que eu faça isso
 
-### email 
+email 
 
 - email: 00001120674864SP@al.educacao.sp.gov.br
 
-![](https://images.app.goo.gl/Uh4nwWhSrnPiuA336)
+![](![image](https://github.com/Daniella404/Daniella404/assets/169729824/a8b383f1-e434-40a5-a768-83906f4e7e39)
+
 
 
 
