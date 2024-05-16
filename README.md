@@ -11,7 +11,7 @@ email
 
 - email: 00001120674864SP@al.educacao.sp.gov.br
 
-![](![image](https://github.com/Daniella404/Daniella404/assets/169729824/a8b383f1-e434-40a5-a768-83906f4e7e39)
+![](https://github.com/Daniella404/Daniella404/assets/169729824/a8b383f1-e434-40a5-a768-83906f4e7e39)
 
 
 
