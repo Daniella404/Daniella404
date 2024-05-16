@@ -12,3 +12,8 @@ Meu nome é Daniella  Takaiama
 ### email 
 
 - email: 00001120674864SP@al.educacao.sp.gov.br
+
+![](https://images.app.goo.gl/Uh4nwWhSrnPiuA336)
+
+
+
