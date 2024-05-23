@@ -3,7 +3,7 @@
 
 Meu nome é Daniella  Takaiama
 
-- Estiu estudando na [Alura](https://www.alura.com.br)
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Eu sou animadora e desenhista
 - Eu estou sendo obrigada a fazer, pois a escola quer que eu faça isso
 
